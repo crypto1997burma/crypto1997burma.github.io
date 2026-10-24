@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="my"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Crypto 1997 — နောက်ဆုံး Crypto သတင်းများ</title>
+<style>
+body{font-family:system-ui,sans-serif;max-width:850px;margin:auto;padding:16px;background:#f5f7fb;color:#172033}
+header{background:#101827;color:white;padding:22px;border-radius:16px}h1{margin:0 0 8px;font-size:1.6rem}
+.muted{color:#64748b;font-size:.9rem}header .muted{color:#cbd5e1}
+.card{background:white;border:1px solid #e2e8f0;border-radius:14px;padding:16px;margin:14px 0}
+h2{font-size:1.12rem;line-height:1.5}.source{font-size:.82rem;color:#64748b}
+.summary{line-height:1.75}.notice{background:#fff7db;border:1px solid #f3df94;padding:12px;border-radius:12px;line-height:1.6}
+button{padding:10px 14px;border:0;border-radius:10px;background:#2563eb;color:white;font-size:1rem}a{color:#075fc7;font-weight:600}
+</style></head><body>
+<header><h1>Crypto 1997</h1><p>နောက်ဆုံး Cryptocurrency သတင်းများ</p><p class="muted" id="updated">သတင်းများကို ဖတ်ရှုနေသည်…</p></header>
+<p class="notice">သတိပြုရန် — မြန်မာစာသည် စက်ဖြင့် အလိုအလျောက်ဘာသာပြန်ထားခြင်းဖြစ်ပြီး အမှားရှိနိုင်ပါသည်။ အရေးကြီးသောအချက်များကို မူရင်းသတင်းတွင် စစ်ဆေးပါ။ ဤစာမျက်နှာသည် ရင်းနှီးမြှုပ်နှံမှုအကြံပေးခြင်း မဟုတ်ပါ။</p>
+<p><button onclick="loadNews()">သတင်းအသစ် ပြန်ဖတ်ရန်</button></p><main id="news">သတင်းများကို ရယူနေသည်…</main>
+<script>
+async function loadNews(){
+ const target=document.getElementById('news'); target.textContent='သတင်းများကို ရယူနေသည်…';
+ try{
+  const r=await fetch('./news-data.json?time='+Date.now(),{cache:'no-store'}); if(!r.ok)throw Error('news-data.json မတွေ့ပါ');
+  const d=await r.json();document.getElementById('updated').textContent='နောက်ဆုံး update: '+(d.updated_at||'မသိရသေးပါ');
+  if(!d.items||!d.items.length){target.textContent='သတင်းမရသေးပါ။ GitHub Actions ကို စစ်ဆေးပါ။';return}
+  target.innerHTML=d.items.map(x=>`<article class="card"><div class="source">${esc(x.source)} ${x.published?' · '+esc(x.published.slice(0,10)):''}</div><h2>${esc(x.title||x.original_title)}</h2><p class="summary">${esc(x.summary||'အကျဉ်းချုပ် မရရှိသေးပါ။')}</p><p><a href="${safe(x.url)}" target="_blank" rel="noopener noreferrer">မူရင်းသတင်း ဖတ်ရန် ↗</a></p></article>`).join('');
+ }catch(e){target.textContent='သတင်းဖိုင်ကို မဖတ်နိုင်ပါ။ GitHub Actions အောင်မြင်ပြီး news-data.json ရှိမရှိ စစ်ပါ။'}
+}
+function esc(s){return String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
+function safe(s){try{let u=new URL(s);return ['https:','http:'].includes(u.protocol)?u.href:'#'}catch(e){return '#'}}
+loadNews();
+</script></body></html>
