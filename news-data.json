@@ -1,5 +1,40 @@
 [
   {
+    "title": "Zcash is about to freeze $16 million in its oldest privacy pool",
+    "summary": "",
+    "link": "https://www.coindesk.com/tech/2026/11/05/zcash-is-about-to-freeze-usd16-million-in-its-oldest-privacy-pool",
+    "published": "Thu, 05 Nov 2026 05:47:01 +0000",
+    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+  },
+  {
+    "title": "The pile of lawsuits against Kalshi just grew by one",
+    "summary": "",
+    "link": "https://www.coindesk.com/policy/2026/11/05/the-pile-of-lawsuits-against-kalshi-just-grew-by-one",
+    "published": "Thu, 05 Nov 2026 05:28:52 +0000",
+    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+  },
+  {
+    "title": "XRP Ledger fixes a disclosed bug that could have led to the creation of new tokens",
+    "summary": "",
+    "link": "https://www.coindesk.com/markets/2026/11/05/xrp-ledger-closes-bug-that-let-approved-token-burners-create-new-tokens",
+    "published": "Thu, 05 Nov 2026 05:25:06 +0000",
+    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+  },
+  {
+    "title": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
+    "summary": "",
+    "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound",
+    "published": "Thu, 05 Nov 2026 05:13:45 +0000",
+    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+  },
+  {
+    "title": "Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show",
+    "summary": "",
+    "link": "https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show",
+    "published": "Thu, 05 Nov 2026 04:11:33 +0000",
+    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+  },
+  {
     "title": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
     "summary": "",
     "link": "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty",
@@ -35,52 +70,38 @@
     "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
   },
   {
-    "title": "Crypto Long & Short: ICE is betting on retail’s appetite for quick outcomes",
-    "summary": "",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/11/04/crypto-long-and-short-ice-is-betting-on-retail-s-appetite-for-quick-outcomes",
-    "published": "Wed, 04 Nov 2026 15:27:20 +0000",
-    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    "title": "Here’s what happened in crypto today",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 05 Nov 2026 06:21:12 +0000",
+    "source": "Cointelegraph.com News"
   },
   {
-    "title": "The election changes Washington. The work on crypto continues",
-    "summary": "",
-    "link": "https://www.coindesk.com/opinion/2026/11/04/the-election-changes-washington-the-work-on-crypto-continues",
-    "published": "Wed, 04 Nov 2026 14:25:12 +0000",
-    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    "title": "Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6N3H7D7JKVJG1M4FYAN87WP/polygon-hard-fork.png\" /></p><p>Polygon block producers have already frozen the stolen tokens, but a proposed hard fork would allow the funds to be recovered and returned to their owners.</p>",
+    "link": "https://cointelegraph.com/news/polygon-hard-fork-binance-polymarket-6-8m-hack-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 05 Nov 2026 06:02:29 +0000",
+    "source": "Cointelegraph.com News"
   },
   {
-    "title": "Live updates: Bitcoin rises above $80,000 as stocks gain following Blue Wave",
-    "summary": "",
-    "link": "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide",
-    "published": "Wed, 04 Nov 2026 14:00:53 +0000",
-    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    "title": "‘Lawyer up’: Democrats target Trump, Big Tech after midterm sweep",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"‘Lawyer up’: Democrats target Trump, Big Tech after midterm sweep\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6N0Q7DG6MW0G7R7JK3YCJ78/hi-fungible-tokens-turn-monopoly-money-into-cryptocurrency-trump-2.jpg\" /></p><p>Democrats wasted little time after their midterm victory, warning tech CEOs to prepare for subpoenas and signaling fresh investigations into Trump’s business dealings.</p>",
+    "link": "https://cointelegraph.com/news/lawyer-up-democrats-target-trump-big-tech-after-midterm-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 05 Nov 2026 04:52:49 +0000",
+    "source": "Cointelegraph.com News"
   },
   {
-    "title": "Global asset manager Schroders brings emerging market bond fund to Solana",
-    "summary": "",
-    "link": "https://www.coindesk.com/business/2026/11/04/global-asset-manager-schroders-brings-emerging-market-bond-fund-to-solana",
-    "published": "Wed, 04 Nov 2026 13:00:00 +0000",
-    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
-  },
-  {
-    "title": "THORChain's RUNE jumps 10% as North Korean hackers resume laundering Binance loot",
-    "summary": "",
-    "link": "https://www.coindesk.com/markets/2026/11/04/thorchain-s-rune-jumps-10-as-north-korean-hackers-resume-laundering-binance-loot",
-    "published": "Wed, 04 Nov 2026 12:49:56 +0000",
-    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    "title": "India warns AI-powered hackers targeting crypto exchanges at ‘machine speed’",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"India warns AI-powered hackers targeting crypto exchanges at ‘machine speed’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6MPCPYRKAQX7P4642EX1VWB/ai-hacker.jpg\" /></p><p>India’s cybersecurity agency says a threat actor is escalating an AI-assisted hacking campaign targeting crypto exchanges and other financial firms. </p>",
+    "link": "https://cointelegraph.com/news/india-warns-ai-powered-hackers-targeting-crypto-exchanges-at-machine-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 05 Nov 2026 01:51:21 +0000",
+    "source": "Cointelegraph.com News"
   },
   {
     "title": "Mercado Bitcoin says phased reopening to begin Monday, will cover losses",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Mercado Bitcoin says phased reopening to begin Monday, will cover losses\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6MCS6V48YKBXE34JHPKFCDG/hi-gate-io-5.jpg\" /></p><p>Customers will initially be able to view their holdings, while withdrawals and trading remain suspended pending security checks.</p>",
     "link": "https://cointelegraph.com/news/mercado-bitcoin-phased-reopening-to-begin-monday-pledges-to-cover-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 04 Nov 2026 23:20:17 +0000",
-    "source": "Cointelegraph.com News"
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Wed, 04 Nov 2026 22:54:23 +0000",
     "source": "Cointelegraph.com News"
   },
   {
@@ -116,27 +137,6 @@
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6KQ5FY3D9P23X31GYKTVT1C/hi-bitcoin-miners-unaffected-by-heat-waves-still-plan-to-establish-operations-in-texas-ai-2.jpg\" /></p><p>Bitcoin miner Riot sold BTC to finance its AI expansion, while Hut 8 reported falling revenue and rising costs before its major data center leases generate income.</p>",
     "link": "https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Wed, 04 Nov 2026 18:47:56 +0000",
-    "source": "Cointelegraph.com News"
-  },
-  {
-    "title": "Circle’s ARC token sale lifts earnings as lower yields weigh on USDC income",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Circle’s ARC token sale lifts earnings as lower yields weigh on USDC income\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6KTPGZ3TZEHDDPCZNDADBR2/coin-crushing-stablecoin-2.png\" /></p><p>Circle is looking to payments fees and future staking rewards to diversify revenue as its core stablecoin business faces pressure from lower yields and growing competition.</p>",
-    "link": "https://cointelegraph.com/news/circles-arc-token-sale-earnings-yields-usdc-income?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Wed, 04 Nov 2026 18:02:42 +0000",
-    "source": "Cointelegraph.com News"
-  },
-  {
-    "title": "Bitcoin hits $80.5K as US stocks rally on midterm election results",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin hits $80.5K as US stocks rally on midterm election results\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6KGZKGX8HBQZ86GKFQW8S8B/bitcoin-lazer-eyes-and-bull-run-graph-5-960x640.webp\" /></p><p>Bitcoin climbed toward $80,500 as risk assets rallied on Democrats’ midterm election gains and oil prices fell.</p>",
-    "link": "https://cointelegraph.com/markets/bitcoin-price-us-stocks-rally-midterm-election-result?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Wed, 04 Nov 2026 15:29:23 +0000",
-    "source": "Cointelegraph.com News"
-  },
-  {
-    "title": "France backs reporting for self-custodied crypto worth 100K euros or more",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"France backs reporting for self-custodied crypto worth 100K euros or more\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6K96JSQT5CQ67R1T193FAYM/hi-guide-on-crypto-french-regulation.jpg\" /></p><p>The amendment would require taxpayers to report holdings worth at least $112,000, but the measure still needs to survive the budget process.</p>",
-    "link": "https://cointelegraph.com/news/france-approves-amendment-self-custodied-crypto-wallets-100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Wed, 04 Nov 2026 13:44:52 +0000",
     "source": "Cointelegraph.com News"
   }
 ]
