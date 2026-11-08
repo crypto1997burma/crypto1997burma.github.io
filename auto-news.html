@@ -18,9 +18,9 @@ async function loadNews(){
  const target=document.getElementById('news'); target.textContent='သတင်းများကို ရယူနေသည်…';
  try{
   const r=await fetch('./news-data.json?time='+Date.now(),{cache:'no-store'}); if(!r.ok)throw Error('news-data.json မတွေ့ပါ');
-  const d=await r.json();document.getElementById('updated').textContent='နောက်ဆုံး update: '+(d.updated_at||'မသိရသေးပါ');
-  if(!d.items||!d.items.length){target.textContent='သတင်းမရသေးပါ။ GitHub Actions ကို စစ်ဆေးပါ။';return}
-  target.innerHTML=d.items.map(x=>`<article class="card"><div class="source">${esc(x.source)} ${x.published?' · '+esc(x.published.slice(0,10)):''}</div><h2>${esc(x.title||x.original_title)}</h2><p class="summary">${esc(x.summary||'အကျဉ်းချုပ် မရရှိသေးပါ။')}</p><p><a href="${safe(x.url)}" target="_blank" rel="noopener noreferrer">မူရင်းသတင်း ဖတ်ရန် ↗</a></p></article>`).join('');
+  const d=await r.json();const items=Array(d)?d:d.items;document.getElementById('updated').textContent='နောက်ဆုံး update: '+(d.updated_at||'မသိရသေးပါ');
+  if(!items||!items.length){target.textContent='သတင်းမရသေးပါ။ GitHub Actions ကို စစ်ဆေးပါ။';return}
+  target.innerHTML=items.map(x=>`<article class="card"><div class="source">${esc(x.source)} ${x.published?' · '+esc(x.published.slice(0,10)):''}</div><h2>${esc(x.title||x.original_title)}</h2><p class="summary">${esc(x.summary||'အကျဉ်းချုပ် မရရှိသေးပါ။')}</p><p><a href="${safe(x.url)}" target="_blank" rel="noopener noreferrer">မူရင်းသတင်း ဖတ်ရန် ↗</a></p></article>`).join('');
  }catch(e){target.textContent='သတင်းဖိုင်ကို မဖတ်နိုင်ပါ။ GitHub Actions အောင်မြင်ပြီး news-data.json ရှိမရှိ စစ်ပါ။'}
 }
 function esc(s){return String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
