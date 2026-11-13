@@ -1,5 +1,33 @@
 [
   {
+    "title": "Bitcoin's momentum gauge is turning red, could send prices back below $60,000",
+    "summary": "",
+    "link": "https://www.coindesk.com/daybook-us/2026/11/13/bitcoin-s-momentum-gauge-is-turning-red-could-send-prices-back-below-usd60-000",
+    "published": "Fri, 13 Nov 2026 12:14:22 +0000",
+    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+  },
+  {
+    "title": "Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion",
+    "summary": "",
+    "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion",
+    "published": "Fri, 13 Nov 2026 11:52:25 +0000",
+    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+  },
+  {
+    "title": "Live news: Bitcoin briefly drops below 200-week moving average",
+    "summary": "",
+    "link": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
+    "published": "Fri, 13 Nov 2026 09:16:58 +0000",
+    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+  },
+  {
+    "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
+    "summary": "",
+    "link": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
+    "published": "Fri, 13 Nov 2026 07:05:29 +0000",
+    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+  },
+  {
     "title": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
     "summary": "",
     "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
@@ -42,32 +70,46 @@
     "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
   },
   {
-    "title": "Kalshi ends Donald Trump Jr.’s advisory contract over 1789 Capital’s Polymarket investment",
-    "summary": "",
-    "link": "https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment",
-    "published": "Thu, 12 Nov 2026 21:07:49 +0000",
-    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    "title": "Israeli police arrest five in $5M WhatsApp crypto trading probe",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Israeli police arrest five in $5M WhatsApp crypto trading probe\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7A9KC13WNDH9B0FYB99Y1X5/hi-fundraising-101-a-beginners-guide-on-raising-funds-using-cryptocurrencies-israel.jpg\" /></p><p>Police suspect the group drew up fictitious loan agreements to disguise crypto trading proceeds it transferred directly into bank accounts.</p>",
+    "link": "https://cointelegraph.com/news/israel-police-arrest-five-5m-whatsapp-crypto-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Fri, 13 Nov 2026 12:19:01 +0000",
+    "source": "Cointelegraph.com News"
   },
   {
-    "title": "Illinois crypto tax is impossible to enforce as written, crypto industry tells court",
-    "summary": "",
-    "link": "https://www.coindesk.com/policy/2026/11/12/illinois-crypto-tax-is-impossible-to-enforce-as-written-crypto-industry-tells-court",
-    "published": "Thu, 12 Nov 2026 16:45:52 +0000",
-    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    "title": "Unocoin keeps deposits and withdrawals halted over suspect transfers",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Unocoin keeps deposits and withdrawals halted over suspect transfers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27X18G5K0AARQBBJ0SYKFK0/regulations-india-crypto.jpg\" /></p><p>Unocoin said the transfers were signed and broadcast outside BitGo’s platform, and BitGo said the account freeze worked as intended.</p>",
+    "link": "https://cointelegraph.com/news/unocoin-withdrawals-halted-bitgo-wallet-transfer-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Fri, 13 Nov 2026 09:58:21 +0000",
+    "source": "Cointelegraph.com News"
   },
   {
-    "title": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout",
-    "summary": "",
-    "link": "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout",
-    "published": "Thu, 12 Nov 2026 15:45:48 +0000",
-    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    "title": "Bitcoin returns to 200-week trend line as analyst sees risk of $57.7K next",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin returns to 200-week trend line as analyst sees risk of $57.7K next\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7A1D62SAT9TKTBQGBY89B4X/article-covers-256285-traders-bitcoin-still-due-next-leg-lower-targeting-46k-btc-price-960x640.webp\" /></p><p>Bitcoin price action interacted with its 200-week simple moving average for the first time since mid-August as it fell below $68,000.</p>",
+    "link": "https://cointelegraph.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Fri, 13 Nov 2026 09:39:05 +0000",
+    "source": "Cointelegraph.com News"
   },
   {
-    "title": "Crypto for Advisors: The blockchain built to run financial markets",
-    "summary": "",
-    "link": "https://www.coindesk.com/coindesk-indices/2026/11/12/crypto-for-advisors-the-blockchain-built-to-run-financial-markets",
-    "published": "Thu, 12 Nov 2026 15:34:29 +0000",
-    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    "title": "DOJ moves to seize $1.2B from Binance hack, disrupts FaceStealer scam",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DOJ moves to seize $1.2B from Binance hack, disrupts FaceStealer scam\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79YHRJXWCDNFHCS2S55SWJY/hi-the-things-the-dojs-latest-move-again-mcafee-have-taught-us-about.jpg\" /></p><p>Authorities froze over $2.7 billion in Binance hack proceeds, while the separate FaceStealer scam stole over $400 million in 18 months.</p>",
+    "link": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Fri, 13 Nov 2026 09:27:14 +0000",
+    "source": "Cointelegraph.com News"
+  },
+  {
+    "title": "Jane Street boosts Fidelity Bitcoin ETF holdings nearly 8x, trims IBIT",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Jane Street boosts Fidelity Bitcoin ETF holdings nearly 8x, trims IBIT\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79TZ0N5PFPG1QHFB1F0EQAV/hi-bitcoin-arbitrage-in-2020-can-still-be-profitable.jpg\" /></p><p>Jane Street ended Q3 with 19% fewer shares in BlackRock’s Bitcoin ETF, and a higher share price lifted the stake’s value to $957 million.</p>",
+    "link": "https://cointelegraph.com/news/jane-street-add-fidelity-bitcoin-etf-ibit-cut-q3-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Fri, 13 Nov 2026 09:05:10 +0000",
+    "source": "Cointelegraph.com News"
+  },
+  {
+    "title": "Microsoft 365 outage hits Outlook email and Teams calendars worldwide",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Microsoft 365 outage hits Outlook email and Teams calendars worldwide\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79XNS0NYCVT2FWE48H7WKBH/hi-microsoft-windows-data-blackout-downs.jpg\" /></p><p>Microsoft began a wider patch rollout Friday as the outage disrupted government email and Microsoft 365 connectors in ChatGPT and Claude.</p>",
+    "link": "https://cointelegraph.com/news/microsoft-365-global-outage-outlook-teams-ai-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Fri, 13 Nov 2026 08:26:01 +0000",
+    "source": "Cointelegraph.com News"
   },
   {
     "title": "Here’s what happened in crypto today",
@@ -95,48 +137,6 @@
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Former Nvidia CEO Huang had third alleged affair: Reuters\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TF8XXVHRYCKDRNDMW19WCP/analys-analytics-bisiness-man-woman-down-city-crash-nvidia.jpg\" /></p><p>Reuters reported that Jensen Huang had a relationship with another Nvidia employee, hours after he resigned as CEO.</p>",
     "link": "https://cointelegraph.com/news/former-nvidia-ceo-huang-had-third-alleged-affair-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 13 Nov 2026 01:26:27 +0000",
-    "source": "Cointelegraph.com News"
-  },
-  {
-    "title": "Gemini’s quarterly retail trading volume sinks to 3-year low",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Gemini’s quarterly retail trading volume sinks to 3-year low\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79668CQYKG39DW60CKNSTF0/hi-gemini-review-2025-secure-regulated-and-feature-rich.jpg\" /></p><p>Gemini’s third-quarter trading rebound masked a deepening retail slump.</p>",
-    "link": "https://cointelegraph.com/markets/geminis-quarterly-retail-trading-volume-sinks-to-3-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 13 Nov 2026 00:52:42 +0000",
-    "source": "Cointelegraph.com News"
-  },
-  {
-    "title": "Maple Finance’s strategy rift sends co-founder, COO to the exits",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Maple Finance’s strategy rift sends co-founder, COO to the exits\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78W1BXY18T2XKFJB5NNN63C/image-1.png\" /></p><p>Maple Finance co-founder Joe Flanagan and COO Ryan O’Shea are leaving over disagreements about the firm’s direction as SYRUP falls despite revenue growth.</p>",
-    "link": "https://cointelegraph.com/news/maple-finance-strategy-rift-co-founder-coo-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 12 Nov 2026 23:12:55 +0000",
-    "source": "Cointelegraph.com News"
-  },
-  {
-    "title": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26Q2WGDD8GDA5QMCWQF3GB3/magazineasia-expresssnow.jpg\" /></p><p>North Korean hackers launch memecoins to launder funds stolen in the Binance hack, while xStocks plans to add hundreds of Hong Kong-listed equities in the coming weeks. </p>",
-    "link": "https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 12 Nov 2026 22:29:58 +0000",
-    "source": "Cointelegraph.com News"
-  },
-  {
-    "title": "Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78TX3PGYGRAKFVQT1WR50MD/hi-paying-the-price-kalshi-banned-politician-for-insider-trading.png\" /></p><p>The prediction market operator said the decision was mutual and followed 1789 Capital’s investment in rival Polymarket, denying political considerations.</p>",
-    "link": "https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 12 Nov 2026 22:05:01 +0000",
-    "source": "Cointelegraph.com News"
-  },
-  {
-    "title": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78SKXFN30X2QXCVG2NCJ1VY/hi-how-strategyb-turned-k-into-m-using-a-high-risk-high-precision-strategy.png\" /></p><p>Strategy shares declined Thursday following MSCI’s decision to remove the company from its indexes, as Bitcoin also fell amid a broader crypto market decline.\n</p>",
-    "link": "https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 12 Nov 2026 21:52:04 +0000",
-    "source": "Cointelegraph.com News"
-  },
-  {
-    "title": "US Justice Department, business groups and DeFi firms challenge Illinois crypto tax",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Justice Department, business groups and DeFi firms challenge Illinois crypto tax\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78NNMK090K8VRSJK706GEH0/hi-more-irs-crypto-reporting-more-danger.png\" /></p><p>Industry groups argued in court filings that Illinois’ crypto tax, which applies even when a transaction yields no profit, could raise compliance costs and violate federal law.</p>",
-    "link": "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 12 Nov 2026 20:58:06 +0000",
     "source": "Cointelegraph.com News"
   }
 ]
