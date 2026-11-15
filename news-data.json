@@ -1,5 +1,12 @@
 [
   {
+    "title": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
+    "summary": "",
+    "link": "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session",
+    "published": "Sun, 15 Nov 2026 14:00:00 +0000",
+    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+  },
+  {
     "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
     "summary": "",
     "link": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
@@ -63,11 +70,11 @@
     "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
   },
   {
-    "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
-    "summary": "",
-    "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
-    "published": "Fri, 13 Nov 2026 18:39:58 +0000",
-    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    "title": "Enterprise blockchain is going to come back from the dead",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Enterprise blockchain is going to come back from the dead\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZMF6J25WASD4RQJDF0BRKT/hi-if-blockchain-is-the-door-to-the-future-of-finance-liquidity-is-the-key.jpg\" /></p><p>With scalability, privacy tools and onchain liquidity improving, businesses may finally have the infrastructure to make enterprise blockchain work.</p>",
+    "link": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Sun, 15 Nov 2026 14:30:00 +0000",
+    "source": "Cointelegraph.com News"
   },
   {
     "title": "Here’s what happened in crypto today",
@@ -130,13 +137,6 @@
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7BCCR5CYZHHWDA4BH24H4DA/portraitadam-back.png\" /></p><p>Blockstream’s new custody system, developed with Thales, uses dedicated hardware for transaction signing as Adam Back advocates for offline security to reduce cyber risks.</p>",
     "link": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 13 Nov 2026 21:49:27 +0000",
-    "source": "Cointelegraph.com News"
-  },
-  {
-    "title": "Kraken parent Payward gains market share as slower trading weighs on earnings",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken parent Payward gains market share as slower trading weighs on earnings\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7BB5D5YR6N43P941FXA2NG0/hi-kraken-ipo-2.jpg\" /></p><p>Payward’s adjusted EBITDA fell 66% year over year to $60 million, even as its share of global spot trading nearly doubled and fee-based services expanded.</p>",
-    "link": "https://cointelegraph.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 13 Nov 2026 21:01:39 +0000",
     "source": "Cointelegraph.com News"
   }
 ]
