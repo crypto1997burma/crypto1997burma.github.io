@@ -1,5 +1,26 @@
 [
   {
+    "title": "Cardano Foundation seeks $5 million from treasury using ADA price 33% above market",
+    "summary": "",
+    "link": "https://www.coindesk.com/tech/2026/11/17/cardano-foundation-seeks-usd5-million-from-treasury-using-ada-price-33-above-market",
+    "published": "Tue, 17 Nov 2026 06:54:49 +0000",
+    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+  },
+  {
+    "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
+    "summary": "",
+    "link": "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion",
+    "published": "Tue, 17 Nov 2026 05:37:23 +0000",
+    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+  },
+  {
+    "title": "Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%",
+    "summary": "",
+    "link": "https://www.coindesk.com/markets/2026/11/17/ripple-backed-evernorth-has-written-down-its-pre-listing-xrp-holdings-by-60",
+    "published": "Tue, 17 Nov 2026 05:02:05 +0000",
+    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+  },
+  {
     "title": "Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid",
     "summary": "",
     "link": "https://www.coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid",
@@ -49,25 +70,32 @@
     "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
   },
   {
-    "title": "Old crypto feud reignites: Why OKX's Star Xu blames Binance for two years of October crashes",
-    "summary": "",
-    "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-slide-reopens-an-old-feud-between-crypto-s-most-powerful-founders",
-    "published": "Mon, 16 Nov 2026 12:55:46 +0000",
-    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    "title": "Ex-Robinhood engineer pleads guilty to $125K Hyperliquid trading scheme",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ex-Robinhood engineer pleads guilty to $125K Hyperliquid trading scheme\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7M0N6T0X8R2T86X53TY8QQG/hammer-doj.png\" /></p><p>The former Robinhood engineer used confidential information about upcoming Robinhood token listings to trade on Hyperliquid. </p>",
+    "link": "https://cointelegraph.com/news/ex-robinhood-engineer-pleads-guilty-125k-crypto-trading-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 17 Nov 2026 06:35:19 +0000",
+    "source": "Cointelegraph.com News"
   },
   {
-    "title": "Bitcoin was supposed to gain as AI faltered, but it crashed. Here's why.",
-    "summary": "",
-    "link": "https://www.coindesk.com/daybook-us/2026/11/16/bitcoin-was-supposed-to-gain-as-ai-faltered-but-it-crashed-here-s-why",
-    "published": "Mon, 16 Nov 2026 12:09:00 +0000",
-    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    "title": "Here’s what happened in crypto today",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 17 Nov 2026 06:00:00 +0000",
+    "source": "Cointelegraph.com News"
   },
   {
-    "title": "Singapore, Germany test cross-border payments to reduce settlement risk",
-    "summary": "",
-    "link": "https://www.coindesk.com/business/2026/11/16/singapore-germany-test-cross-border-payments-to-reduce-settlement-risk",
-    "published": "Mon, 16 Nov 2026 11:47:12 +0000",
-    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    "title": "Trezor customer data exposed in 3rd partner breach this year",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trezor customer data exposed in 3rd partner breach this year\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7KSMV6VXD8X0C6CPDG5WCNC/trezor.jpg\" /></p><p>Trezor warned an attacker has been able to access customer names, phone numbers and delivery addresses linked to 27,000 orders from one of its shipping providers.</p>",
+    "link": "https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 17 Nov 2026 03:46:22 +0000",
+    "source": "Cointelegraph.com News"
+  },
+  {
+    "title": "Hackers inject credit card, crypto-stealing malware into 178 major websites",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hackers inject credit card, crypto-stealing malware into 178 major websites\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7KGB8P723WG4K1R3Q3WMM6J/hi-how-cybercriminals-use-youtube-and-github-to-spread-crypto-malware.jpg\" /></p><p>Ledger and Coinpass were among the businesses whose websites served malware designed to steal visitors’ crypto and credit card details, according to security researchers.</p>",
+    "link": "https://cointelegraph.com/news/hackers-inject-malware-into-178-major-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Tue, 17 Nov 2026 01:02:05 +0000",
+    "source": "Cointelegraph.com News"
   },
   {
     "title": "Nvidia shares fall 4% as board reportedly rules out Huang return",
@@ -98,13 +126,6 @@
     "source": "Cointelegraph.com News"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 16 Nov 2026 22:07:36 +0000",
-    "source": "Cointelegraph.com News"
-  },
-  {
     "title": "Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JZ53YRDRJQGKMN9M3767RB/hi-10-public-companies-that-quietly-turned-their-balance-sheets-into-bitcoin-treasuries.png\" /></p><p>Strategy, Strive, Bitmine and Cypherpunk disclosed fresh additions to their crypto treasuries, spanning Bitcoin, Ether and Zcash.</p>",
     "link": "https://cointelegraph.com/markets/bitmine-nears-5-eth-supply-treasuries-report-buys-amid-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -116,27 +137,6 @@
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Boris Johnson says UK must lead blockchain development despite crypto doubts\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1KWG2BF4FVCFASCKG2BAG5D/peace-and-friendship-uk-1.jpg\" /></p><p>Johnson was joined by Lord Ross Kempsell who called for regulators to work with industry participants to bring the UK to the forefront.</p>",
     "link": "https://cointelegraph.com/news/boris-johnson-uk-must-lead-blockchain-development-despite-crypto-doubts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Mon, 16 Nov 2026 20:18:02 +0000",
-    "source": "Cointelegraph.com News"
-  },
-  {
-    "title": "Coinbase and Broadridge propose standard for tokenized stock disclosures",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase and Broadridge propose standard for tokenized stock disclosures\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JTN734VB6CHE3TCTHAYQMT/digital-bonds-on-blockchain-2.png\" /></p><p>The proposed standard aims to connect tokenized stockholders with corporate disclosures and voting materials across digital wallets, but would not create shareholder rights.</p>",
-    "link": "https://cointelegraph.com/news/coinbase-broadridge-tokenized-stock-shareholder-notices?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 16 Nov 2026 19:56:18 +0000",
-    "source": "Cointelegraph.com News"
-  },
-  {
-    "title": "Nvidia turmoil tests Bitcoin miners’ AI funding plans",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Nvidia turmoil tests Bitcoin miners’ AI funding plans\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JEWHRV64CGR31PRV4XXWS7/hi-the-power-in-energy-and-how-new-technologies-can-shift-bitcoin-ai.jpg\" /></p><p>Nvidia’s leadership upheaval and Texas permit restrictions sharpen the divide between miners with funded projects and those still seeking capital and approvals.</p>",
-    "link": "https://cointelegraph.com/news/nvidia-turmoil-tests-bitcoin-miners-ai-funding-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 16 Nov 2026 18:07:49 +0000",
-    "source": "Cointelegraph.com News"
-  },
-  {
-    "title": "Safe wallet reportedly loses $6.5M as Zodiac suspects key compromise",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Safe wallet reportedly loses $6.5M as Zodiac suspects key compromise\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JKHE8AKT8EG64S6TQC9CZW/hi-why-spot-the-typo-is-no-longer-enough-for-crypto-security-1.png\" /></p><p>Zodiac’s co-founder said a likely compromised key and overly permissive wallet settings enabled the theft, rather than a flaw in its smart contracts.</p>",
-    "link": "https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Mon, 16 Nov 2026 17:49:13 +0000",
     "source": "Cointelegraph.com News"
   }
 ]
