@@ -1,5 +1,26 @@
 [
   {
+    "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
+    "summary": "",
+    "link": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
+    "published": "Sat, 21 Nov 2026 12:30:00 +0000",
+    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+  },
+  {
+    "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
+    "summary": "",
+    "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
+    "published": "Sat, 21 Nov 2026 06:16:42 +0000",
+    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+  },
+  {
+    "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+    "summary": "",
+    "link": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
+    "published": "Sat, 21 Nov 2026 05:59:19 +0000",
+    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+  },
+  {
     "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
     "summary": "",
     "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
@@ -49,25 +70,32 @@
     "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
   },
   {
-    "title": "Live news: Bitcoin slips to fresh lows below $59,000 as Anthropic slides after Nasdaq debut",
-    "summary": "",
-    "link": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
-    "published": "Fri, 20 Nov 2026 13:35:33 +0000",
-    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    "title": "Here’s what happened in crypto today",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Sat, 21 Nov 2026 11:18:52 +0000",
+    "source": "Cointelegraph.com News"
   },
   {
-    "title": "Bitcoin bots pounced within seconds when researchers exposed their wallet keys",
-    "summary": "",
-    "link": "https://www.coindesk.com/tech/2026/11/20/bitcoin-bots-pounced-within-seconds-when-researchers-exposed-their-keys",
-    "published": "Fri, 20 Nov 2026 13:30:22 +0000",
-    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    "title": "ECB seeks industry partners for tokenized deposits, securities experiments",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ECB seeks industry partners for tokenized deposits, securities experiments\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M34BTQXP52VJEXVV822SS5QM/hi-what-is-a-decentralized-money-market-and-eu-stablecoin-2.jpg\" /></p><p>Industry groups have until Dec. 11 to apply for the ECB’s first experimental exercises under its Appia initiative, with later submissions reviewed on a rolling basis.</p>",
+    "link": "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Sat, 21 Nov 2026 09:48:56 +0000",
+    "source": "Cointelegraph.com News"
   },
   {
-    "title": "ECB’s Lagarde warns Europe could lose control of growing tokenized asset market",
-    "summary": "",
-    "link": "https://www.coindesk.com/policy/2026/11/20/ecb-s-largarde-warns-europe-could-lose-control-of-growing-tokenized-asset-market",
-    "published": "Fri, 20 Nov 2026 13:11:49 +0000",
-    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    "title": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US lawmakers propose up to 30% rewards for prediction market whistleblowers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3TG0M8S1BAV7KN2AJ34JJE9/prediction-market.jpg\" /></p><p>Whistleblowers could receive 10% to 30% of monetary sanctions in qualifying prediction market fraud cases exceeding $1 million in penalties. </p>",
+    "link": "https://cointelegraph.com/news/us-prediction-market-whistleblower-rewards-30-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Sat, 21 Nov 2026 07:51:47 +0000",
+    "source": "Cointelegraph.com News"
+  },
+  {
+    "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hong Kong pushes to bring crypto custodians, advisers under licensing rules\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Y9VC5TT6XQ46DCK68VGC0X/regulation-hong-kong.jpg\" /></p><p>Hong Kong’s securities regulator says the proposal would strengthen investor protections, with the bill set for its first reading in the Legislative Council on Dec. 2.</p>",
+    "link": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Sat, 21 Nov 2026 05:40:35 +0000",
+    "source": "Cointelegraph.com News"
   },
   {
     "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
@@ -109,34 +137,6 @@
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DBS bets it can lose the deposit and keep the client\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WNFYH0FRWPZX615E3RNKNQ/sponsored-marina-bay-sand-singapore-light-water11-1.jpg\" /></p><p>The Singapore bank earned a record $208 million in transaction services fees in the third quarter — now it’s helping companies turn deposits into stablecoins they can spend without it.</p>",
     "link": "https://cointelegraph.com/news/dbs-bets-it-can-lose-the-deposit-and-keep-the-client?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "published": "Fri, 20 Nov 2026 15:32:30 +0000",
-    "source": "Cointelegraph.com News"
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 20 Nov 2026 13:29:58 +0000",
-    "source": "Cointelegraph.com News"
-  },
-  {
-    "title": "Lagarde warns Europe could miss chance to unify tokenized markets",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Lagarde warns Europe could miss chance to unify tokenized markets\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WGQEQ57ZB4C6X8Y2M5KYTQ/christine-lagarde-imf.jpg\" /></p><p>The ECB president said Europe’s market for tokenized securities could split into platforms that cannot settle trades with one another.</p>",
-    "link": "https://cointelegraph.com/news/lagarde-europe-limited-window-tokenization-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 20 Nov 2026 13:21:39 +0000",
-    "source": "Cointelegraph.com News"
-  },
-  {
-    "title": "Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KZARS72JZC0FSMD8WX2PAG/aml-money-laundering-crypto-1.jpg\" /></p><p>OnChain Lens tracked nearly $600 million in ETH transfers over two days as the Binance hackers moved the stolen funds through fresh wallets and cross-chain protocols to obscure their trail.</p>",
-    "link": "https://cointelegraph.com/news/binance-hacker-600m-eth-routes-thorchain-chainflip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 20 Nov 2026 11:31:41 +0000",
-    "source": "Cointelegraph.com News"
-  },
-  {
-    "title": "VanEck to end Gemini ETF custody deals, keeps Coinbase",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"VanEck to end Gemini ETF custody deals, keeps Coinbase\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7W70S79VWG5A9Q3C9MCT7R8/vvv.png\" /></p><p>VanEck plans to end Gemini’s custody agreements for three crypto ETFs in February 2027, while Coinbase will continue serving as a custodian for the funds.</p>",
-    "link": "https://cointelegraph.com/news/vaneck-gemini-etf-custody-end-keep-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Fri, 20 Nov 2026 10:54:38 +0000",
     "source": "Cointelegraph.com News"
   }
 ]
