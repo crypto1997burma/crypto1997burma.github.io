@@ -1,5 +1,19 @@
 [
   {
+    "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
+    "summary": "",
+    "link": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
+    "published": "Thu, 26 Nov 2026 17:30:00 +0000",
+    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+  },
+  {
+    "title": "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
+    "summary": "",
+    "link": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
+    "published": "Thu, 26 Nov 2026 16:50:23 +0000",
+    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+  },
+  {
     "title": "Crypto for Advisors: Four questions to ask before trusting a crypto exchange",
     "summary": "",
     "link": "https://www.coindesk.com/coindesk-indices/2026/11/26/crypto-for-advisors-four-questions-to-ask-before-trusting-a-crypto-exchange",
@@ -56,87 +70,73 @@
     "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
   },
   {
-    "title": "$7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October",
-    "summary": "",
-    "link": "https://www.coindesk.com/markets/2026/11/26/usd7-billion-of-bitcoin-options-expire-friday-and-the-biggest-bets-look-starkly-different-from-october",
-    "published": "Thu, 26 Nov 2026 08:01:33 +0000",
-    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
-  },
-  {
-    "title": "Zcash developers want to phase out older privacy system as a precaution against future attacks",
-    "summary": "",
-    "link": "https://www.coindesk.com/tech/2026/11/26/zcash-developers-want-users-to-move-usd300-million-out-of-an-older-privacy-system",
-    "published": "Thu, 26 Nov 2026 07:09:25 +0000",
-    "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
-  },
-  {
-    "title": "How EU brokers could lose access to Kyrgyz crypto exchanges",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"How EU brokers could lose access to Kyrgyz crypto exchanges\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8C3GD14M87H9WKHF5WVDZN0/hi-from-kyrgyzstan-how-cryptocurrencies-are-regulated-in-the-central-asia.jpg\" /></p><p>A vote on Kyrgyzstan could make an exchange’s home country the deciding factor in whether a European broker can use it to settle a trade.</p>",
-    "link": "https://cointelegraph.com/news/how-eu-brokers-could-lose-access-to-kyrgyz-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 26 Nov 2026 15:45:07 +0000",
+    "title": "Privacy coins face diverging fortunes as KuCoin moves to drop Monero",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Privacy coins face diverging fortunes as KuCoin moves to drop Monero\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CWT0VSVGTZXTJSC0TTYCYY/red-graphs-removed.png\" /></p><p>As KuCoin joins exchanges dropping Monero ahead of new EU restrictions, Grayscale argues that Zcash’s privacy design sets it apart.</p>",
+    "link": "https://cointelegraph.com/news/privacy-coins-kucoin-drop-monero-grayscale-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Fri, 27 Nov 2026 00:35:39 +0000",
     "source": "Cointelegraph.com News"
   },
   {
-    "title": "Nasdaq exec pushes for common EU rules on tokenized securities",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Nasdaq exec pushes for common EU rules on tokenized securities\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8C09F24P5KHBWTW0KT3PDYS/hi-ericx-launches-spot-market2.jpg\" /></p><p>Nasdaq’s Roland Chai backed exploring common EU rules for tokenized securities and said its Swedish subsidiary had applied for a DLT license.</p>",
-    "link": "https://cointelegraph.com/news/nasdaq-exec-eu-wide-legal-framework-tokenized-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 26 Nov 2026 13:47:56 +0000",
+    "title": "‘Very racist’ Netflix SBF series, BitMart’s $319M shortfall: Asia Express",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"‘Very racist’ Netflix SBF series, BitMart’s $319M shortfall: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3WVGY0BWCZXBWJ212RM1CMX/magazineasia-expresshighway.jpg\" /></p><p>Netflix’s The Altruist has been slammed for its ‘very racist’ portrayal of CZ. BitMart reportedly has a $319.5 million shortfall and just $1.9M in liquid assets.</p>",
+    "link": "https://cointelegraph.com/magazine/very-racist-netflix-sbf-series-bitmarts-319m-shortfall-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 26 Nov 2026 22:39:46 +0000",
     "source": "Cointelegraph.com News"
   },
   {
     "title": "Here’s what happened in crypto today",
     "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 26 Nov 2026 13:45:04 +0000",
+    "published": "Thu, 26 Nov 2026 22:12:06 +0000",
     "source": "Cointelegraph.com News"
   },
   {
-    "title": "7 bizarre things crypto whales spent a fortune on",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"7 bizarre things crypto whales spent a fortune on\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8AJF5HX1DMMV7AVXD5FM0BD/transformed-surreal-scene.png\" /></p><p>The crypto rich have spent their fortunes on everything from dinosaur skeletons to rotting fruit, with some purchases defying belief.</p>",
-    "link": "https://cointelegraph.com/magazine/7-bizarre-things-crypto-whales-spent-a-fortune-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 26 Nov 2026 13:30:00 +0000",
+    "title": "BNB Chain details new layer-1 for trading, private finance and AI",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BNB Chain details new layer-1 for trading, private finance and AI\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CNTJ5QY7JX07X77DZB8QA2/hi-malaysian-gvnt-backed-coin-1st-coin-to-fund-political-campaigns3.png\" /></p><p>\nThe proposed network will operate alongside BNB Smart Chain and retain BNB as its native token, with a public testnet targeted for the first quarter of 2027.</p>",
+    "link": "https://cointelegraph.com/news/bnb-chain-details-new-layer-1-trading-private-finance-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 26 Nov 2026 21:42:43 +0000",
     "source": "Cointelegraph.com News"
   },
   {
-    "title": "Vitalik Buterin calls for verifiable chips as hardware wallet threats evolve",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Vitalik Buterin calls for verifiable chips as hardware wallet threats evolve\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8BRYP0VPBJMFGRFC0AZM22T/vitalik-buerin-on-chips.png\" /></p><p>Buterin warned that future attacks could use lookalike chips with hidden malicious functions, making hardware tampering harder to detect.</p>",
-    "link": "https://cointelegraph.com/news/vitalik-buterin-verifiable-chips-hardware-wallet-threats-evolve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 26 Nov 2026 12:13:59 +0000",
+    "title": "Binance completes withdrawal recovery four weeks after $6.3B hack",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance completes withdrawal recovery four weeks after $6.3B hack\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CRF7Q3J730C588BDSC03H1/hi-why-has-central-bank-of-brazil-included-crypto-assets-in-trade-balance-new-2.png\" /></p><p>The announcement concludes a phased withdrawal recovery that began on Nov. 1, when Binance restored Bitcoin withdrawals following the record crypto theft.</p>",
+    "link": "https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 26 Nov 2026 21:33:47 +0000",
     "source": "Cointelegraph.com News"
   },
   {
-    "title": "Standard Chartered’s Zodia Custody suffers data breach",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Standard Chartered’s Zodia Custody suffers data breach\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8BSHNWM38YRHP144TN1QGFW/hi-bithumb-hack-what-is-known2-1.jpg\" /></p><p>Zodia Custody’s CEO said the breach exposed names and email addresses of some clients and employees and was detected by the company Monday.</p>",
-    "link": "https://cointelegraph.com/news/standard-chartered-zodia-suffers-data-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 26 Nov 2026 11:37:06 +0000",
+    "title": "UK is ‘getting it wrong’ on DeFi regulation, says Coinbase",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK is ‘getting it wrong’ on DeFi regulation, says Coinbase\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CJBJZM1MK2FZDDPQ6PK8RE/token-character-pushing-gavel.png\" /></p><p>Coinbase and Stand With Crypto argue that the FCA’s proposed DeFi rules could leave UK users without regulated access to decentralized finance.</p>",
+    "link": "https://cointelegraph.com/news/uk-wrong-defi-regulation-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 26 Nov 2026 21:13:53 +0000",
     "source": "Cointelegraph.com News"
   },
   {
-    "title": "Bitcoin price eyes $61K as Talos warns of thin Thanksgiving liquidity",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price eyes $61K as Talos warns of thin Thanksgiving liquidity\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8BQ97HCB2ACESRYJR5JD6PP/article-covers-233023-bitcoin-bounces-seven-day-high-can-btc-break-95k-thanksgiving-960x640.webp\" /></p><p>Bitcoin joined US stock futures in a modest relief rally as Talos questioned crypto demand and the broader outlook for the AI trade.</p>",
-    "link": "https://cointelegraph.com/markets/bitcoin-price-talos-warns-thin-thanksgiving-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 26 Nov 2026 11:22:59 +0000",
+    "title": "Japan weighs tighter oversight of DeFi, self-custodial wallets",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Japan weighs tighter oversight of DeFi, self-custodial wallets\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CFDEDS67MYHD143YMVQP6X/g20-discuss-crypto-in-japan-desk-table-meeting-hand-paper-people-eth.png\" /></p><p>Japan’s financial regulator is exploring measures to curb illicit finance risks, including potential restrictions on access to DeFi services.</p>",
+    "link": "https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 26 Nov 2026 20:05:18 +0000",
     "source": "Cointelegraph.com News"
   },
   {
-    "title": "Zcash devs urge users to migrate 2% of ZEC supply to accelerate Sapling pool retirement",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Zcash devs urge users to migrate 2% of ZEC supply to accelerate Sapling pool retirement\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8BMN3WHTV269AC5GQXT90JH/hi-staking-explained-zcash-1.jpg\" /></p><p>Zcash developers urged users to move funds out of an older shielded transaction pool over concerns that AI advances could compromise its cryptography.</p>",
-    "link": "https://cointelegraph.com/news/zcash-users-migrate-zec-supply-sapling-pool-retirement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 26 Nov 2026 10:15:28 +0000",
+    "title": "Spain moves to grant financial watchdog power to freeze crypto accounts",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Spain moves to grant financial watchdog power to freeze crypto accounts\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CCD2RN9Y8M1ZHAA60WA1ZA/frozen-token-with-spanish-flag.png\" /></p><p>A new decree would allow Spain’s financial intelligence unit to suspend crypto accounts, with firms facing fines for noncompliance.</p>",
+    "link": "https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 26 Nov 2026 18:26:31 +0000",
     "source": "Cointelegraph.com News"
   },
   {
-    "title": "Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25BCMVHPH5H5NSCSEW4N3JQ/hi-what-is-a-bitcoin-node-a-beginners-guide-on-blockchain-nodes-etf-1.jpg\" /></p><p>The Morgan Stanley Bitcoin Trust drew $114.1 million in monthly net inflows through Wednesday, while US spot Bitcoin ETF outflows reached $5.39 billion.</p>",
-    "link": "https://cointelegraph.com/markets/morgan-stanley-bitcoin-etf-trend-outflows-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 26 Nov 2026 09:42:34 +0000",
+    "title": "Crypto on notice as hawkish Fed risks December ‘meltdown’",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto on notice as hawkish Fed risks December ‘meltdown’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CA3FNTMVJ8NYKSJGRZZ4NT/hi-impact-of-fed-interest-rates-on-crypto-holders-2-960x640.webp\" /></p><p>Economist Robin Brooks warned of dire consequences for stocks if the Federal Reserve fails to deliver dovish cues before the FOMC blackout period.</p>",
+    "link": "https://cointelegraph.com/markets/crypto-hawkish-fed-risks-december-meltdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 26 Nov 2026 17:39:53 +0000",
     "source": "Cointelegraph.com News"
   },
   {
-    "title": "Switzerland’s first spot Bitcoin ETF ticks up 0.6% in opening hour",
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Switzerland’s first spot Bitcoin ETF ticks up 0.6% in opening hour\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5CM5K1VY11KXJASBKDSS5M2/hi-inside-the-swiss-city-where-you-can-pay-for-almost-everything-in-bitcoin.jpg\" /></p><p>The spot Bitcoin ETF will be backed by Bitcoin held in cold storage at a Swiss bank, unlike prior Bitcoin ETPs structured as debt securities.</p>",
-    "link": "https://cointelegraph.com/markets/bit-debuts-switzerlands-first-spot-bitcoin-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published": "Thu, 26 Nov 2026 09:18:15 +0000",
+    "title": "BIS chief Pablo Hernández de Cos set to become next ECB president: FT",
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BIS chief Pablo Hernández de Cos set to become next ECB president: FT\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8C8RT1W7XDK23XH1A1525VP/hi-the-digital-euro-project-how-it-will-impact-the-current-financial-system-ecb.png\" /></p><p>The Spanish economist has questioned the viability of stablecoins for widespread payments while backing the development of a digital euro.</p>",
+    "link": "https://cointelegraph.com/news/bis-chief-pablo-hernndez-de-cos-next-ecb-president?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published": "Thu, 26 Nov 2026 16:40:44 +0000",
     "source": "Cointelegraph.com News"
   }
 ]
